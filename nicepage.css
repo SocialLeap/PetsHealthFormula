@@ -37272,7 +37272,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-text-2 {
   font-weight: 400;
-  font-size: 1.125rem;
+  font-size: 0.875rem;
   margin: 19px 0 60px 49px;
 }
 
@@ -37332,16 +37332,19 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 575px) {
   .u-footer .u-sheet-1 {
-    min-height: 801px;
+    min-height: 542px;
   }
 
   .u-footer .u-text-1 {
+    font-size: 0.75rem;
     margin-top: 41px;
   }
 
   .u-footer .u-text-2 {
-    font-size: 1rem;
+    font-size: 0.75rem;
+    font-weight: normal;
     margin-top: 44px;
+    margin-bottom: 20px;
   }
 }
 
